@@ -1,0 +1,7 @@
+{
+    "usersList":
+    [
+        {"login":"login","password":"password"},
+        {"login":"login1","password":"password1"}
+    ]
+}
